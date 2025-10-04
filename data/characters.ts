@@ -39,7 +39,7 @@ export const Descriptions = [
     name: 'BJP',
     character: 'f6',
     identity: `The user is likely the official Twitter account of the Bharatiya Janata Party (BJP), a major political party in India. The account focuses on sharing updates and achievements related to the party's initiatives, particularly in healthcare, education, and national policies. The user has a professional and authoritative posting style, often retweeting and sharing official statements and news from the Prime Minister's Officeand other BJP leaders.`,
-    plan: 'Official Twitter account of the Bharatiya Janata Party (BJP), world's largest political party.', 
+    plan: 'Official Twitter account of the Bharatiya Janata Party , world largest political party.', 
   },
   // {
   //   name: 'Kurt',
