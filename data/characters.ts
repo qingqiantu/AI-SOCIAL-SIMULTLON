@@ -33,7 +33,7 @@ export const Descriptions = [
             "main_areas_of_focus": "The primary focus of the account is on local news, weather updates, and community-related stories. It also covers national news events and occasionally shares content from other sources, such as sports and celebrity news.",
             "posting_style": "The posting style is professional with a touch of humor, often sharing serious news stories alongside lighter content like interesting animal sightings and beautiful weather phenomena. The account frequently retweets content from other sources, particularly from Paul Fox13, who seems to be a key figure in the organization.",
             "interaction_behavior": "The account has a high ratio of retweets to original posts, reflecting its role in aggregating and sharing news rather than generating original content. The engagement is moderate, with a mix of comments and likes, indicating a responsive and engaged audience.`,
-    plan: 'Bringing you the important stuff like breaking news & weather alerts. But also plenty of fun stuff, like sports updates and all those 'only-in-Florida.',
+    plan: 'Bringing you the important stuff like breaking news & weather alerts. But also plenty of fun stuff, like sports updates and all those only in Florida.',
   },
   {
     name: 'BJP',
