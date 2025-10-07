@@ -33,7 +33,7 @@ export default function Home() {
         <div className="font-body">
           <h1 className="text-center text-6xl font-bold font-display game-title">Help</h1>
           <p>
-            Welcome to AI town. AI town supports both anonymous <i>spectators</i> and logged in{' '}
+            Welcome to Virtual Social Space. Virtual Social Space supports both anonymous <i>spectators</i> and logged in{' '}
             <i>interactivity</i>.
           </p>
           <h2 className="text-4xl mt-4">Spectating</h2>
@@ -57,14 +57,14 @@ export default function Home() {
             in the messages panel.
           </p>
           <p className="mt-4">
-            AI town only supports {MAX_HUMAN_PLAYERS} humans at a time. If you're idle for five
+            AI Space only supports {MAX_HUMAN_PLAYERS} humans at a time. If you're idle for five
             minutes, you'll be automatically removed from the simulation.
           </p>
         </div>
       </ReactModal>
       {/*<div className="p-3 absolute top-0 right-0 z-10 text-2xl">
         <Authenticated>
-          <UserButton afterSignOutUrl="/ai-town" />
+          <UserButton afterSignOutUrl="/Virtual Social Space" />
         </Authenticated>
 
         <Unauthenticated>
@@ -74,14 +74,14 @@ export default function Home() {
 
       <div className="w-full lg:h-screen min-h-screen relative isolate overflow-hidden lg:p-8 shadow-2xl flex flex-col justify-start">
         <h1 className="mx-auto text-4xl p-3 sm:text-8xl lg:text-9xl font-bold font-display leading-none tracking-wide game-title w-full text-left sm:text-center sm:w-auto">
-          AI Town
+          Virtual Social Space
         </h1>
 
         <div className="max-w-xs md:max-w-xl lg:max-w-none mx-auto my-4 text-center text-base sm:text-xl md:text-2xl text-white leading-tight shadow-solid">
-          A virtual town where AI characters live, chat and socialize.
+          A virtual Space where AI characters live, chat and socialize.
           {/* <Unauthenticated>
             <div className="my-1.5 sm:my-0" />
-            Log in to join the town
+            Log in to join the Space
             <br className="block sm:hidden" /> and the conversation!
           </Unauthenticated> */}
         </div>
